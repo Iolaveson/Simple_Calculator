@@ -4,9 +4,7 @@
 
 I created a simple calculator in C# using winform. This software demostrates the use of variables, expressions, conditionals, loops, functions, classes, and structures in C#. It also showcases the versatility of the winform gui. My main goal in this was to experiement with C# and see how different the syntax is from other languages that I have learned.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/uOAAwBOmHSk)
 
 # Development Environment
 
